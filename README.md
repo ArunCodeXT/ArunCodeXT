@@ -19,7 +19,7 @@ Right now, I'm focusing on the essentials:
 
 ---
 
-## 🔧 Skills (Beginner-friendly, clean icons)
+## 🔧 Skills 
 
 <p align="left">
 
@@ -68,12 +68,28 @@ Right now, I'm focusing on the essentials:
 
 ---
 
-## 🌍 Contact Me
+## 📫 Connect With Me
 
-- 📩 Email: **arunkumar.off210@gmail.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/arun-kumar-a-06290b385/**  
-- 🐙 GitHub: **https://github.com/ArunCodeXT**
+<p align="left">
 
-<p align="center">
-  <i>“Learning slowly, consistently, and with purpose.”</i>
+  <!-- GitHub -->
+  <a href="https://github.com/ArunCodeXT" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" 
+         width="40" height="40" alt="GitHub" />
+  </a>
+
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/arun-kumar-a-06290b385/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
+         width="40" height="40" alt="LinkedIn" />
+  </a>
+
+
+  <!-- Email -->
+  <a href="mailto:arunkumar.off210@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/500/007AFF/new-post.png" 
+         width="40" height="40" alt="Email" />
+  </a>
+
 </p>
